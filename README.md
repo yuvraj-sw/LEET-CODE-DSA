@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
