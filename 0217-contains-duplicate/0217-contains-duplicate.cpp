@@ -1,6 +1,13 @@
 class Solution {
     public:
         bool containsDuplicate(vector<int>& nums) {
-            return unordered_set<int>(nums.begin(), nums.end()).size() < nums.size();
+            unordered_set<int> nice;
+            for(int num : nums){
+                if(nice.count(num)){
+                    return true;
+                }
+                nice.insert(num);
+            }
+            return false;
         }
 };
