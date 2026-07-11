@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
