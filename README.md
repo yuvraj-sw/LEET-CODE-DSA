@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
