@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview!
 ![Total Solved](https://img.shields.io/badge/Questions%20Solved-13-blue?style=for-the-badge&logo=leetcode)
 ![Target Goal](https://img.shields.io/badge/Target%20Goal-150-orange?style=for-the-badge)
 
+
 ### 📈 Current Milestone
 | Goal | Progress | Percentage |
 | :--- | :--- | :--- |
-| **Interview Prep** | `██░░░░░░░░░░░░░░░░░░░░░░░` | **8.6%** |
+| **Interview Prep** | <progress value="13" max="150"></progress> | **8.6%** |
+
 
 ---
 
