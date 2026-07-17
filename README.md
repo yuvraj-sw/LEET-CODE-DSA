@@ -64,11 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0020-valid-parentheses) |
-| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
+
 ## Simulation
 |  |
 | ------- |
@@ -89,3 +85,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/2390-removing-stars-from-a-string) |
+<!---LeetCode Topics End-->
