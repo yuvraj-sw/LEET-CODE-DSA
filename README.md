@@ -10,7 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 ### 📈 Current Milestone
 | Goal | Progress Bar | Percentage |
 | :--- | :--- | :--- |
-| **Interview Prep** | ![Progress](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-brightgreen?style=flat) | **8.6%** |
+| **Interview Prep** | ![Progress](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-brightgreen?style=flat) | **10%** |
 
 ---
 
