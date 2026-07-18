@@ -4,13 +4,13 @@ A collection of LeetCode questions to ace the coding interview!
 
 ## 📊 Quick Dashboard
 
-![Total Solved](https://img.shields.io/badge/Questions%20Solved-15-blue?style=for-the-badge&logo=leetcode)
+![Total Solved](https://img.shields.io/badge/Questions%20Solved-19-blue?style=for-the-badge&logo=leetcode)
 ![Target Goal](https://img.shields.io/badge/Target%20Goal-150-orange?style=for-the-badge)
 
 ### 📈 Current Milestone
 | Goal | Progress Bar | Percentage |
 | :--- | :--- | :--- |
-| **Interview Prep** | ![Progress](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-brightgreen?style=flat) | **10%** |
+| **Interview Prep** | ![Progress](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91-brightgreen?style=flat) | **12.6%** |
 
 ---
 
