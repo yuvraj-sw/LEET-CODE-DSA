@@ -44,10 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0724-find-pivot-index) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -85,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0169-majority-element) |
@@ -122,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvia2810-cmyk/LEET-CODE-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
